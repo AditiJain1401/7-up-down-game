@@ -1,0 +1,44 @@
+body {
+    background-color: #393E46;
+    align-items: center;
+    align-content: center;
+    font-size: 2rem;
+    color: white;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+}
+
+p {
+    font-size: 2rem;
+    color: #fcb9cf;
+    font-family: 'Indie Flower', cursive;
+    font-weight: 800;
+    margin-top: 10px;
+}
+
+img {
+    width: 80%;
+}
+
+button {
+    background-color: #4ECCA3;
+    font-weight: bolder;
+    outline-color: beige;
+}
+
+button :hover {
+    background-color: beige;
+    color: black;
+    outline-color: #4ECCA3;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
